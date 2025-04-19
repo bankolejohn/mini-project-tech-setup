@@ -31,7 +31,9 @@ git --version
 ```
 
 ### Screenshot:
-![Git Install](screenshots/git_install.png)
+![figure-1](https://github.com/user-attachments/assets/0700778a-c4db-445e-855a-fae097cef381)
+
+
 
 ---
 
@@ -52,7 +54,8 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 ```
 
 ### Screenshot:
-![VS Code](screenshots/vscode.png)
+![Untitled](https://github.com/user-attachments/assets/95ebd83a-693f-4ab1-9e6a-7b59bb97072e)
+
 
 ---
 
@@ -69,7 +72,8 @@ iTerm2 is an improved terminal emulator for macOS.
 ### Step 3: Launch and customize preferences if needed.
 
 ### Screenshot:
-![iTerm2](screenshots/iterm2.png)
+![Untitled18](https://github.com/user-attachments/assets/31c72960-bdca-4e26-9ea3-bfa7906c902c)
+
 
 ---
 
@@ -90,7 +94,8 @@ VBoxManage --version
 ```
 
 ### Screenshot:
-![VirtualBox](screenshots/virtualbox.png)
+
+![Untitled23](https://github.com/user-attachments/assets/0e393fa9-88ab-45e5-8403-49f41d7e4649)
 
 ---
 
@@ -114,7 +119,8 @@ Ubuntu is a popular Linux distribution.
 - Start the VM and follow Ubuntu installation steps
 
 ### Screenshot:
-![Ubuntu Install](screenshots/ubuntu.png)
+![choose-keyboard-layout-for-ubuntu-20 04](https://github.com/user-attachments/assets/3d230d87-2841-423a-a08c-f90cd1b6f443)
+
 
 ---
 
@@ -138,7 +144,8 @@ brew install gh
 ```
 
 ### Screenshot:
-![GitHub Signup](screenshots/github_signup.png)
+<img width="602" alt="Screenshot 2025-04-19 at 1 51 03 PM" src="https://github.com/user-attachments/assets/44f04956-fcf5-4df5-bbef-3585868d8100" />
+
 
 ---
 
@@ -161,8 +168,8 @@ AWS offers cloud computing services and tools.
 ### Step 5: Select a support plan (Free Tier is recommended for beginners)
 
 ### Screenshot:
-![AWS Signup](screenshots/aws_signup.png)
+<img width="1109" alt="Screenshot 2025-04-19 at 1 52 26 PM" src="https://github.com/user-attachments/assets/0d497369-cc58-4dd0-b8a1-71bf23bc0335" />
+
 
 ---
 
-> All screenshots should be placed in the `screenshots` directory next to this file for proper rendering.
