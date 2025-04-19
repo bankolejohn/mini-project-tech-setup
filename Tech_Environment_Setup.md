@@ -31,7 +31,9 @@ git --version
 ```
 
 ### Screenshot:
-![figure-1](https://github.com/user-attachments/assets/0700778a-c4db-445e-855a-fae097cef381)
+
+<img width="741" alt="Screenshot 2025-04-19 at 2 07 21 PM" src="https://github.com/user-attachments/assets/2776774d-bd66-435f-93e2-75cc4925cd7e" />
+
 
 
 
@@ -54,7 +56,8 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 ```
 
 ### Screenshot:
-![Untitled](https://github.com/user-attachments/assets/95ebd83a-693f-4ab1-9e6a-7b59bb97072e)
+
+<img width="1407" alt="Screenshot 2025-04-19 at 2 04 29 PM" src="https://github.com/user-attachments/assets/bd8cdb83-9f16-43a9-868c-8493b69edf8f" />
 
 
 ---
@@ -95,7 +98,8 @@ VBoxManage --version
 
 ### Screenshot:
 
-![Untitled23](https://github.com/user-attachments/assets/0e393fa9-88ab-45e5-8403-49f41d7e4649)
+![K0eiQ](https://github.com/user-attachments/assets/9eacce93-c849-4ebb-80ec-a678de39cc7b)
+
 
 ---
 
@@ -118,8 +122,7 @@ Ubuntu is a popular Linux distribution.
 - In Settings > Storage, choose the downloaded ISO
 - Start the VM and follow Ubuntu installation steps
 
-### Screenshot:
-![choose-keyboard-layout-for-ubuntu-20 04](https://github.com/user-attachments/assets/3d230d87-2841-423a-a08c-f90cd1b6f443)
+
 
 
 ---
@@ -168,7 +171,8 @@ AWS offers cloud computing services and tools.
 ### Step 5: Select a support plan (Free Tier is recommended for beginners)
 
 ### Screenshot:
-<img width="1109" alt="Screenshot 2025-04-19 at 1 52 26 PM" src="https://github.com/user-attachments/assets/0d497369-cc58-4dd0-b8a1-71bf23bc0335" />
+
+<img width="1433" alt="Screenshot 2025-04-19 at 2 16 45 PM" src="https://github.com/user-attachments/assets/07c9611f-2cb5-4b33-aedb-5d4fc1831183" />
 
 
 ---
