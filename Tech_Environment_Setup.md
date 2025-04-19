@@ -147,7 +147,8 @@ brew install gh
 ```
 
 ### Screenshot:
-<img width="602" alt="Screenshot 2025-04-19 at 1 51 03 PM" src="https://github.com/user-attachments/assets/44f04956-fcf5-4df5-bbef-3585868d8100" />
+
+<img width="1415" alt="Screenshot 2025-04-19 at 2 18 58 PM" src="https://github.com/user-attachments/assets/032d3078-a254-43ab-89dd-b0be9a6e9c73" />
 
 
 ---
